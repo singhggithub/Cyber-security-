@@ -1,0 +1,63 @@
+﻿Chapter 1
+---------
+Internal control definition
+COSO full form
+External auditors guiding institute
+Internal auditors guiding institute
+IT auditor team
+IT auditor skills
+COSO standards
+Requirements for good IT controls for enterprise
+COSO internal control framework
+Enterprise structure
+COSO 3D model
+Control environment - Enterprise history & culture, management support
+Control environment components - Integrity and ethical values (ignorance, misdirected temptations - unrealistic sales targets), Commitment to competence, Board of directors and audit committee, Management's philosophy and operating style, Organizational structure, Assignment of authority and responsibility, Human resources policies and practices
+Risk assessment - 3-step process
+Control activities - Top-level reviews, Direct functional or activity management, Information processing, Physical controls, Performance indicators, Segregation of duties
+Communications and information
+Importance of monitoring in COSO
+List of COSO monitoring activities - Operating management normal functions, Communications from external parties, Enterprise structure and supervisory activities, Physical inventories and asset reconciliation
+Reviews by management
+Internal control evaluation process - Benchmarking
+Evaluation action plans - Evaluating undocumented procedures
+Reporting internal control deficiencies - What to report and whom to report
+
+3 dimensions of COSO internal controls - Effectiveness and effciency of operations, Compliance with applicable laws and regulations, Reliability of financial reporting
+
+COSO internal controls systems monitoring guidance - 4 stage process (Prioritize risks, Identify controls, Identify information, Implement monitoring)
+
+SOX - Sarbanes Oxley Act (also known as Public Accounting Reform and Investor Protection Act) - Preventing financial frauds
+
+PCAOB (Public Company Accounting Oversight Board) - Rule-setting authority which issues standards
+
+SEC - Securities and Exchange Commission, U.S.
+
+SOX key provisions - 404 (Important)
+
+CPA (Certified Public Accountant) - Before SOX for financial review
+GAAS and SAS
+
+PCAOB - Responsible for external auditing practices for AICPA members
+
+SOX Title I external audit process rules - PCAOB administration and public accounting firm registration, Auditing, quality control and independence standards, Audit workpapers retention, Scope of internal control testing
+
+SOX Title IV: Enhanced Financial Disclosures and Section 404 - Correct fianncial reproting problems, internal controls in annual 10k reports 
+
+
+
+Section 404 - Enterprise responsibility for documentation, reveiw and testing of internal accounting controls
+
+404 Internal controls assessment - Management statement of responsibility, Annual assessment, External auditor assessment/attestation
+Key processes to launch Section 404 compliance review - Revenue cycle, Direct expenditure cycles, Indirect expenditure cycles, Payroll cycle, Inventory cycle, Fixed assets cycle, General controls IT cycle
+
+Internal audit's role - Responsibilities for 404 internal controls review
+Planning considerations for Section 404 internal controls review
+
+AS 5 rules and internal audit - Risk-based rules, effectiveness of internal controls w.r.t. facts and circumstances, include internal audit reviews in reports
+
+AS 5 objectives - Focus internal control audits on the most important matters, Eliminate audit procedures that are unnecessary to achieve their intended benefits, Make the financial audit clearly scalable to fit the size and the complexity of any enterprise
+Use of internal audit observations, evidence and reports by external auditors
+Assessment of competence of internal auditors
+Assessment of objectivity of internal auditors
+Pure separation-of-duties independence rules

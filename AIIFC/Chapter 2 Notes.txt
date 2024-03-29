@@ -1,0 +1,54 @@
+﻿Chapter 2
+---------
+COBIT - Control Objectives for Information and related Technology, Useful for for internal auditors irrespective of regulatory compulsions
+
+ITGI - IT Governance Institute, Issue and update COBIT, Focused on research and governance
+
+ISACA - Information Systems Audit and Control Association, Focused on IT auditing, Certifications: CISA, CISM
+
+COBIT IT governance focus areas - Strategic alignment, Value delivery, Risk management, Resource management, Performance measurement
+
+COBIT framework - More emphasis on IT than COSO
+
+Basic COBIT Principles - Cyclic/continuous -> Business requirements drive the investments in IT reources that are used by IT processes to deliver Enterprise information which responds to Business requirements
+
+COBIT Cube - 3 IT dimensions: IT Resources, IT Processes and Business Requirements
+
+IT resources - Applications, Information, Infrastructure, People
+
+IT processes - Domains (groupings of IT activities that match to organizational areas of responsibilities), Processes (series of joined activities with natural control breaks), Activities (actions needed to achieve measurable results)
+
+Domains - Planning and enterprise (Planning process steps), Acquisition and implementation, Delivery and support, Monitoring and evaluation
+
+Business requirements - Effectiveness, Efficiency, Confidentiality, Integrity, Availability, Compliance, Reliability
+
+Using COBIT to assess internal controls - IT processes to be evaluated though 5 navigation steps, Either top-down approach or bottom-up approach
+
+Business requirements marked with P (primary) or S (secondary) or left blank (if not applicable or not necessary)
+
+IT resource areas checked if applicable
+
+Pentagon diagram areas shaded/marked if primary or secondary
+
+Planning and enterprise - 10 high-level Planning and Organization (PO) control objectives, Each PO expanded into more detailed objectives,
+
+ RACI (Responsible, Accountable, Consulted, Informed) charts for identifying roles and responsibilties related to each COBIT objective
+
+Acquisition and implementation - 7 AI objectives, AI6 objectives follow 5-step process for managing changes
+
+Delivery and support - 13 DS objectives
+Goals and metricss scenarios to fill Exhibit 2.6: DS10 manage problems goals and metrics
+
+Monitoring and evaluation (ME) - Never-ending closed-loop process, Quality assurance, 4 principal control objectives, 7 supporting objectives
+
+
+
+
+Plan, Do, Check, Act (PDCA) cycle (Edward Deming) - Measured by Number of internal control breaches, Number of control improvement initiatives, Number and coverage of control self-assessments (ongoing internal reviews)
+
+Using COBIT in SOX environment - For implementing section 404 due to high focus on IT-oriented controls
+
+Cubic relationship between COBIT and COSO - Y-axis: COSO internal control components, X-axis: COBIT objectives, Z-axis: SOX Sections 404 & 302
+Tabular relationship between COSO and COBIT
+
+Information Technology Assurance Framework (ITAF) - COBIT assurance guidance, Objective is to define standards which ensure quality, consistency and reliability of IT assessments based on good practices

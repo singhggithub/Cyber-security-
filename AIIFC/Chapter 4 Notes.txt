@@ -1,0 +1,58 @@
+﻿Chapter 4
+---------
+COSO - Committee of Sponsoring Organizations
+
+ERM - Enterprise Risk Management, Framework for assessing risks at all levels in organization, Different from internal controls framework
+
+Risk management - Use insurance to protect from risks based on relative risks and cost
+
+Risk assessment considerations - Nature, extent and timing of planned audit procedures; Areas or business functions to be audited; Amount of time and resources to be allocated to audit
+
+Risk levels - Inherent risks (due to nature of an activity, outside control of management), Control or residual risks (remains after countermeasures have been applied, not prevented or detected timely), Detection risk (due to absense of substantive evidence during auditing)
+
+Risk management process - Identify relevant potential risks for each activity, Quantitatively and/or qulitatively assess them, Prioritize them and plan response, Perform continuous risk monitoring
+
+Risk identification - Identify all types of risks (small to large) which may significantly cause impact to operations, estimate risk probabilities, top-down approach for larger enterprises distributing identification responsibility to lower level managers who then collectively report back to the top-level
+
+Types of enterprise risks - Enterprise-wide strategic risks, Operation risks, Finance risks, Information risks
+
+Risk evaluation questions by enterprise management team - Is risk common across the company or restrcited to a particular section or business unit, Will risk be because of external or internal events, Are the risks related, one caused due to the other?
+
+Key risk assessment principles - Assess likelihood and significance of each risk, circulate identified risk list to key manangers and ask questions and ask them to rate (likelihood of risk over the next year, significance of risk w.r.t. costs incurred etc.) 
+
+Risk assessment analysis map (Qualitative measure for small no. of risks) - X-axis: Likelihood, Y-axis: Significance, Focus on risks having high likelihood and high significance first
+
+2-digit percentage-based method - For larger number of risks
+Joint probability 2 or more risks occuring = Percentage (Risk1/Event1) x Percentage (Risk2/Event2) x and so on
+
+Risk independence and risk interdependence both must be taken into consideration
+Risk drivers - Risks having the highest risk rank scores, require first attention
+
+Quantitative risk analysis techniques - Focussed on evaluating cost of risk
+Cost estimation basis - Best-case cost if risk is evident (limited risk impact assumed), Cost estimate from different knowledgeable people, Expected cost of risk (considers different factors like additional labor), Worst-case cost of risk (if everything goes wrong)
+
+Risk ranking expected cost estimate = Risk Score x Cost Impact
+
+
+
+
+IIA risk-related international standards and management guidance - Meaning of "significant risk" not clearly stated, IPPS 2120 (internal audit must evaluate effectiveness of risk and contribute to its effectiveness)
+
+ISACA Standard S11 Use of Risk Assessment in Audit Planning
+
+COSO ERM - ERM is a process focussed on flexibility, implemented by people in enterprise, applied through  strategies across the enterprise, considers risk appetite, provides reasonable rather than positive assurance on the achievement of objectives, designed to attain achievement of objectives
+
+COSO 3D cube components - X-axis: Strategic Objectives of Enterprise Risk, Y-axis: Risk Components, Z-axis: Entity and Unit-Level Component
+
+Internal environment - Risk management philosophy, Risk appetite, Board of director attitudes, Integrity and ethical values, Commitment to competence, Organization structure, Assignments of authority and responsibility, Human resource standards
+
+Risk appetite map - X-axis: Likelihood, Y-axis: Impact
+Objective-setting - Importance of mission statement, formally define risk appetite
+
+Event identification - Occurences that affect ERM strategy, can be positive and negative, need to be clearly defined to take appropriate actions
+Risk assessments - Assessed according to likelihood and impact, estimating likelihood is difficult, estimating impact is easier, both assessed w.r.t. risk events using quantitative and qualitative methods and ranked
+Risk response strategies - Risk Avoidance, Risk Reduction, Risk Sharing, Risk Acceptance, risk responses development required careful planning
+Control activities - Policies and procedures necessary to ensure action on identified risk responses, need to be executed timely and efficiently, internal control areas - separation of duties, audit trails, security and integrity, documentation
+Information and communication - Complex to describe how information is communicated within different components in practice
+Monitoring - Base of ERM model, important to ensure all ERM processes are working effectively, a continuous process, should be able to flag exceptions and violations
+Risk management objectives - Identification of risks for each enterprise unit, reporting risk management objectives (accurate and reliable reporting, risks of inaccurate reports), legal and regulatory compliance risk objectives
